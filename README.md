@@ -6,17 +6,14 @@ Features:
 1.General - Easy to use GUI
 
 2. Reader's Functions
-<li> ● Add to Cart Functionality</li>
-<li> ● Borrow (single documents/ multiple documents)
-<li> ● Reserve (single documents/ multiple documents)
- ● Return (single documents/ multiple documents)
- ● Search Documents by Document's name or by the Publisher's name
- ● Automatic Fine setting (Default Due-date: 20 days from document borrow date for each
-   borrowed document)
- ● Automatic Deletion of Reserved Document (Default: by 6PM / at Library close time
-   every day)
- ● Max Limit for Borrowing documents (Default: 10 documents per reader)
-
+      <li><em>Add to Cart</em> Functionality</li>
+      <li>Borrow (single documents/ multiple documents)</li>
+      <li>Reserve (single documents/ multiple documents)</li>
+      <li>Return (single documents/ multiple documents)</li>
+      <li>Search Documents by Document's name or by the Publisher's name </li>
+      <li>Automatic Fine setting (Default Due-date: 20 days from document borrow date for each borrowed document)</li>
+      <li>Automatic Deletion of Reserved Document (Default: by 6PM / at Library close time every day)</li>
+      <li>Max Limit for Borrowing documents (Default: 10 documents per reader)</li>
 3. Admin's Functions
  ● Add new Readers
  ● Add new Documents / Copies
