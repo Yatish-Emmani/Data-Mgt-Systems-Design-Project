@@ -2,9 +2,8 @@
 <p>A full-fledge City Library system for a Librarian</p>
 
 <ul><h2>Features</h2>
-<li><ul>General
+<li>General
         <li>Easy to use GUI</li>
-    </ul>
     <br/>
 </li>
 <li>
