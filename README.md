@@ -43,6 +43,6 @@ Open MySQL Admin:
       <li>`mysql> SET GLOBAL local_infile = true;`</li>
       <li>`mysql> exit`</li>
       <li>Command to use to populate database:</li>
-      <code>`$ mysql --local-infile=1 -u root -p < initialize.sql`</code>
+      <li>`$ mysql --local-infile=1 -u root -p < initialize.sql`</li>
       </ul>
 $INSTALL_PATH = the path where XAMPP files are located*
