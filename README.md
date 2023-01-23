@@ -4,6 +4,7 @@
 <ul><h2>Features</h2>
 <li>General
         <li>Easy to use GUI</li>
+    </ul>
     <br/>
 </li>
 <li>
