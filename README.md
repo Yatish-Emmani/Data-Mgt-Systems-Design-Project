@@ -17,14 +17,16 @@ Features:
       <li>Max Limit for Borrowing documents (Default: 10 documents per reader)</li>
       </ul>
 3. Admin's Functions
- ● Add new Readers
- ● Add new Documents / Copies
- ● View all Library Branches (if any)
- ● Miscellaneous
- ● Taking Library Branch number and get the most popular book at the moment
- ● Taking Library Branch number and get the active reader for that libranch branch
- ● Most popular books of a given year
- ● Average Fine paid by the borrowers from in a given interval date
+      <ul>
+      <li>Add new Readers</li>
+      <li>Add new Documents / Copies</li>
+      <li>View all Library Branches (if any)</li>
+       <ul>Miscellaneous
+          <li> Taking Library Branch number and get the most popular book at the moment</li>
+          <li> Taking Library Branch number and get the active reader for that libranch branch</li>
+          <li> Most popular books of a given year</li>
+          <li> Average Fine paid by the borrowers from in a given interval date</li>
+        </ul>
 
 Installation Guide:
  ● Install Xampp: https://www.apachefriends.org/index.html
