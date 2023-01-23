@@ -45,4 +45,4 @@ Open MySQL Admin:
       <li>Command to use to populate database:</li>
       <code>`$ mysql --local-infile=1 -u root -p < initialize.sql`</code>
       </ul>
-<li>$INSTALL_PATH = the path where XAMPP files are located*</li>
+$INSTALL_PATH = the path where XAMPP files are located*
