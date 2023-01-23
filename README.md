@@ -21,24 +21,29 @@ Features:
       <li>Add new Readers</li>
       <li>Add new Documents / Copies</li>
       <li>View all Library Branches (if any)</li>
-       <ul>Miscellaneous
-          <li> Taking Library Branch number and get the most popular book at the moment</li>
-          <li> Taking Library Branch number and get the active reader for that libranch branch</li>
-          <li> Most popular books of a given year</li>
-          <li> Average Fine paid by the borrowers from in a given interval date</li>
-        </ul>
+4. Miscellaneous
+      <ul>    
+      <li> Taking Library Branch number and get the most popular book at the moment</li>
+      <li> Taking Library Branch number and get the active reader for that libranch branch</li>
+      <li> Most popular books of a given year</li>
+      <li> Average Fine paid by the borrowers from in a given interval date</li>
+      </ul>
 
 Installation Guide:
- ● Install Xampp: https://www.apachefriends.org/index.html
- ● Place the Frontend folder htdoc*: $INSTALL_PATH\xampp\htdocs
- ● Run Apache in XAMPP and then open a browser enter url address as,
-   localhost/Frontend/, to view the app.
+      <ul>    
+      <li>Install Xampp: https://www.apachefriends.org/index.html</li>
+      <li>Place the Frontend folder htdoc*: $INSTALL_PATH\xampp\htdocs</li>
+      <li>Run Apache in XAMPP and then open a browser enter url address as, localhost/Frontend/, to view the app.</li>
+      </ul>
 
 Open MySQL Admin:
-1. `$ mysql -u root -p`
-2. Then we need to give access like this:
-   `mysql> SET GLOBAL local_infile = true;`
-   `mysql> exit`
-3. Command to use to populate database:
-   `$ mysql --local-infile=1 -u root -p < initialize.sql`
+      <ul>
+      <li>`$ mysql -u root -p`</li>
+      <li>Then we need to give access like this:</li>
+      <code>
+          `mysql> SET GLOBAL local_infile = true;`
+          `mysql> exit`
+      </code>
+      <li>Command to use to populate database:</li>
+      <code>`$ mysql --local-infile=1 -u root -p < initialize.sql`</code>
 $INSTALL_PATH = the path where XAMPP files are located*
