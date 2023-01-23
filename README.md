@@ -40,10 +40,9 @@ Open MySQL Admin:
       <ul>
       <li>`$ mysql -u root -p`</li>
       <li>Then we need to give access like this:</li>
-      <code>
-            `mysql> SET GLOBAL local_infile = true;`
-            `mysql> exit`
-      </code>
+      <li>`mysql> SET GLOBAL local_infile = true;`</li>
+      <li>`mysql> exit`</li>
       <li>Command to use to populate database:</li>
       <code>`$ mysql --local-infile=1 -u root -p < initialize.sql`</code>
-$INSTALL_PATH = the path where XAMPP files are located*
+      </ul>
+<li>$INSTALL_PATH = the path where XAMPP files are located*</li>
