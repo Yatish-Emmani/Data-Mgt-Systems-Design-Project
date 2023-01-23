@@ -3,9 +3,10 @@
 
 Features:
 
-1.General - Easy to use GUI
+1. General - Easy to use GUI
 
 2. Reader's Functions
+      <ul>
       <li><em>Add to Cart</em> Functionality</li>
       <li>Borrow (single documents/ multiple documents)</li>
       <li>Reserve (single documents/ multiple documents)</li>
@@ -14,6 +15,7 @@ Features:
       <li>Automatic Fine setting (Default Due-date: 20 days from document borrow date for each borrowed document)</li>
       <li>Automatic Deletion of Reserved Document (Default: by 6PM / at Library close time every day)</li>
       <li>Max Limit for Borrowing documents (Default: 10 documents per reader)</li>
+      </ul>
 3. Admin's Functions
  ● Add new Readers
  ● Add new Documents / Copies
