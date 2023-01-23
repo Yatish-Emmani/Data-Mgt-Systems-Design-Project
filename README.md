@@ -1,8 +1,9 @@
-City-Library-System-2022
-A full-fledge City Library system for a Librarian
+<h1 text-align="center">City-Library-System-2020</h1>
+<p>A full-fledge City Library system for a Librarian</p>
 
 Features:
-1.General - Easy to use GUI
+
+1. General - Easy to use GUI
 
 2. Reader's Functions
 Add to Cart Functionality
