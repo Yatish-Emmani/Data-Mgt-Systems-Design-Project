@@ -6,9 +6,9 @@ Features:
 1.General - Easy to use GUI
 
 2. Reader's Functions
- ● Add to Cart Functionality
- ● Borrow (single documents/ multiple documents)
- ● Reserve (single documents/ multiple documents)
+<li> ● Add to Cart Functionality</li>
+<li> ● Borrow (single documents/ multiple documents)
+<li> ● Reserve (single documents/ multiple documents)
  ● Return (single documents/ multiple documents)
  ● Search Documents by Document's name or by the Publisher's name
  ● Automatic Fine setting (Default Due-date: 20 days from document borrow date for each
